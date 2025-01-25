@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Enclave",
+    "label": "Enclave"
+  },
+  {
+    "value": "Encore",
+    "label": "Encore"
+  },
+  {
+    "value": "Encore GX",
+    "label": "Encore GX"
+  },
+  {
+    "value": "Envision",
+    "label": "Envision"
+  },
+  {
+    "value": "LaCrosse",
+    "label": "LaCrosse"
+  },
+  {
+    "value": "LeSabre",
+    "label": "LeSabre"
+  },
+  {
+    "value": "Lucerne",
+    "label": "Lucerne"
+  },
+  {
+    "value": "Park Avenue",
+    "label": "Park Avenue"
+  },
+  {
+    "value": "Rainier",
+    "label": "Rainier"
+  },
+  {
+    "value": "Regal",
+    "label": "Regal"
+  },
+  {
+    "value": "Regal Sportback",
+    "label": "Regal Sportback"
+  },
+  {
+    "value": "Regal TourX",
+    "label": "Regal TourX"
+  },
+  {
+    "value": "Rendezvous",
+    "label": "Rendezvous"
+  },
+  {
+    "value": "Riviera",
+    "label": "Riviera"
+  },
+  {
+    "value": "Roadmaster",
+    "label": "Roadmaster"
+  },
+  {
+    "value": "Skylark",
+    "label": "Skylark"
+  },
+  {
+    "value": "Terraza",
+    "label": "Terraza"
+  },
+  {
+    "value": "Verano",
+    "label": "Verano"
+  },
+  {
+    "value": "Cascada",
+    "label": "Cascada"
+  },
+  {
+    "value": "Century",
+    "label": "Century"
+  }
+]

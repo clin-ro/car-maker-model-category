@@ -1,0 +1,486 @@
+[
+  {
+    "value": "2500 Regular Cab",
+    "label": "2500 Regular Cab"
+  },
+  {
+    "value": "Classic",
+    "label": "Classic"
+  },
+  {
+    "value": "Cobalt",
+    "label": "Cobalt"
+  },
+  {
+    "value": "Colorado Crew Cab",
+    "label": "Colorado Crew Cab"
+  },
+  {
+    "value": "Colorado Extended Cab",
+    "label": "Colorado Extended Cab"
+  },
+  {
+    "value": "Colorado Regular Cab",
+    "label": "Colorado Regular Cab"
+  },
+  {
+    "value": "Corsica",
+    "label": "Corsica"
+  },
+  {
+    "value": "Corvette",
+    "label": "Corvette"
+  },
+  {
+    "value": "Cruze",
+    "label": "Cruze"
+  },
+  {
+    "value": "Cruze Limited",
+    "label": "Cruze Limited"
+  },
+  {
+    "value": "Equinox",
+    "label": "Equinox"
+  },
+  {
+    "value": "Express 1500 Cargo",
+    "label": "Express 1500 Cargo"
+  },
+  {
+    "value": "Express 1500 Passenger",
+    "label": "Express 1500 Passenger"
+  },
+  {
+    "value": "Express 2500 Cargo",
+    "label": "Express 2500 Cargo"
+  },
+  {
+    "value": "Express 2500 Passenger",
+    "label": "Express 2500 Passenger"
+  },
+  {
+    "value": "Express 3500 Cargo",
+    "label": "Express 3500 Cargo"
+  },
+  {
+    "value": "3500 Crew Cab",
+    "label": "3500 Crew Cab"
+  },
+  {
+    "value": "Express 3500 Passenger",
+    "label": "Express 3500 Passenger"
+  },
+  {
+    "value": "3500 Extended Cab",
+    "label": "3500 Extended Cab"
+  },
+  {
+    "value": "3500 HD Extended Cab",
+    "label": "3500 HD Extended Cab"
+  },
+  {
+    "value": "3500 HD Regular Cab",
+    "label": "3500 HD Regular Cab"
+  },
+  {
+    "value": "3500 Regular Cab",
+    "label": "3500 Regular Cab"
+  },
+  {
+    "value": "G-Series 1500",
+    "label": "G-Series 1500"
+  },
+  {
+    "value": "G-Series 2500",
+    "label": "G-Series 2500"
+  },
+  {
+    "value": "G-Series 3500",
+    "label": "G-Series 3500"
+  },
+  {
+    "value": "G-Series G10",
+    "label": "G-Series G10"
+  },
+  {
+    "value": "G-Series G20",
+    "label": "G-Series G20"
+  },
+  {
+    "value": "G-Series G30",
+    "label": "G-Series G30"
+  },
+  {
+    "value": "HHR",
+    "label": "HHR"
+  },
+  {
+    "value": "Impala",
+    "label": "Impala"
+  },
+  {
+    "value": "Impala Limited",
+    "label": "Impala Limited"
+  },
+  {
+    "value": "Lumina",
+    "label": "Lumina"
+  },
+  {
+    "value": "Lumina APV",
+    "label": "Lumina APV"
+  },
+  {
+    "value": "Lumina Cargo",
+    "label": "Lumina Cargo"
+  },
+  {
+    "value": "Lumina Passenger",
+    "label": "Lumina Passenger"
+  },
+  {
+    "value": "Malibu",
+    "label": "Malibu"
+  },
+  {
+    "value": "Malibu (Classic)",
+    "label": "Malibu (Classic)"
+  },
+  {
+    "value": "Malibu Limited",
+    "label": "Malibu Limited"
+  },
+  {
+    "value": "Metro",
+    "label": "Metro"
+  },
+  {
+    "value": "Monte Carlo",
+    "label": "Monte Carlo"
+  },
+  {
+    "value": "1500 Extended Cab",
+    "label": "1500 Extended Cab"
+  },
+  {
+    "value": "Prizm",
+    "label": "Prizm"
+  },
+  {
+    "value": "S10 Blazer",
+    "label": "S10 Blazer"
+  },
+  {
+    "value": "S10 Crew Cab",
+    "label": "S10 Crew Cab"
+  },
+  {
+    "value": "S10 Extended Cab",
+    "label": "S10 Extended Cab"
+  },
+  {
+    "value": "S10 Regular Cab",
+    "label": "S10 Regular Cab"
+  },
+  {
+    "value": "SS",
+    "label": "SS"
+  },
+  {
+    "value": "SSR",
+    "label": "SSR"
+  },
+  {
+    "value": "Silverado (Classic) 1500 Crew Cab",
+    "label": "Silverado (Classic) 1500 Crew Cab"
+  },
+  {
+    "value": "Silverado (Classic) 1500 Extended Cab",
+    "label": "Silverado (Classic) 1500 Extended Cab"
+  },
+  {
+    "value": "Silverado (Classic) 1500 HD Crew Cab",
+    "label": "Silverado (Classic) 1500 HD Crew Cab"
+  },
+  {
+    "value": "Silverado (Classic) 1500 Regular Cab",
+    "label": "Silverado (Classic) 1500 Regular Cab"
+  },
+  {
+    "value": "Silverado (Classic) 2500 HD Crew Cab",
+    "label": "Silverado (Classic) 2500 HD Crew Cab"
+  },
+  {
+    "value": "Silverado (Classic) 2500 HD Extended Cab",
+    "label": "Silverado (Classic) 2500 HD Extended Cab"
+  },
+  {
+    "value": "Silverado (Classic) 2500 HD Regular Cab",
+    "label": "Silverado (Classic) 2500 HD Regular Cab"
+  },
+  {
+    "value": "Silverado (Classic) 3500 Crew Cab",
+    "label": "Silverado (Classic) 3500 Crew Cab"
+  },
+  {
+    "value": "Silverado (Classic) 3500 Extended Cab",
+    "label": "Silverado (Classic) 3500 Extended Cab"
+  },
+  {
+    "value": "Silverado (Classic) 3500 Regular Cab",
+    "label": "Silverado (Classic) 3500 Regular Cab"
+  },
+  {
+    "value": "Silverado 1500 Crew Cab",
+    "label": "Silverado 1500 Crew Cab"
+  },
+  {
+    "value": "Silverado 1500 Double Cab",
+    "label": "Silverado 1500 Double Cab"
+  },
+  {
+    "value": "Silverado 1500 Extended Cab",
+    "label": "Silverado 1500 Extended Cab"
+  },
+  {
+    "value": "Silverado 1500 HD Crew Cab",
+    "label": "Silverado 1500 HD Crew Cab"
+  },
+  {
+    "value": "Silverado 1500 LD Double Cab",
+    "label": "Silverado 1500 LD Double Cab"
+  },
+  {
+    "value": "Silverado 1500 Regular Cab",
+    "label": "Silverado 1500 Regular Cab"
+  },
+  {
+    "value": "Silverado 2500 Crew Cab",
+    "label": "Silverado 2500 Crew Cab"
+  },
+  {
+    "value": "Silverado 2500 Extended Cab",
+    "label": "Silverado 2500 Extended Cab"
+  },
+  {
+    "value": "Silverado 2500 HD Crew Cab",
+    "label": "Silverado 2500 HD Crew Cab"
+  },
+  {
+    "value": "Silverado 2500 HD Double Cab",
+    "label": "Silverado 2500 HD Double Cab"
+  },
+  {
+    "value": "Silverado 2500 HD Extended Cab",
+    "label": "Silverado 2500 HD Extended Cab"
+  },
+  {
+    "value": "Silverado 2500 HD Regular Cab",
+    "label": "Silverado 2500 HD Regular Cab"
+  },
+  {
+    "value": "1500 Regular Cab",
+    "label": "1500 Regular Cab"
+  },
+  {
+    "value": "Silverado 2500 Regular Cab",
+    "label": "Silverado 2500 Regular Cab"
+  },
+  {
+    "value": "Silverado 3500 Crew Cab",
+    "label": "Silverado 3500 Crew Cab"
+  },
+  {
+    "value": "Silverado 3500 Extended Cab",
+    "label": "Silverado 3500 Extended Cab"
+  },
+  {
+    "value": "Silverado 3500 HD Crew Cab",
+    "label": "Silverado 3500 HD Crew Cab"
+  },
+  {
+    "value": "Silverado 3500 HD Double Cab",
+    "label": "Silverado 3500 HD Double Cab"
+  },
+  {
+    "value": "Silverado 3500 HD Extended Cab",
+    "label": "Silverado 3500 HD Extended Cab"
+  },
+  {
+    "value": "Silverado 3500 HD Regular Cab",
+    "label": "Silverado 3500 HD Regular Cab"
+  },
+  {
+    "value": "Silverado 3500 Regular Cab",
+    "label": "Silverado 3500 Regular Cab"
+  },
+  {
+    "value": "Sonic",
+    "label": "Sonic"
+  },
+  {
+    "value": "Spark",
+    "label": "Spark"
+  },
+  {
+    "value": "Spark EV",
+    "label": "Spark EV"
+  },
+  {
+    "value": "Sportvan G10",
+    "label": "Sportvan G10"
+  },
+  {
+    "value": "Sportvan G20",
+    "label": "Sportvan G20"
+  },
+  {
+    "value": "Sportvan G30",
+    "label": "Sportvan G30"
+  },
+  {
+    "value": "Suburban",
+    "label": "Suburban"
+  },
+  {
+    "value": "Suburban 1500",
+    "label": "Suburban 1500"
+  },
+  {
+    "value": "Suburban 2500",
+    "label": "Suburban 2500"
+  },
+  {
+    "value": "Suburban 3500HD",
+    "label": "Suburban 3500HD"
+  },
+  {
+    "value": "Tahoe",
+    "label": "Tahoe"
+  },
+  {
+    "value": "Tahoe (New)",
+    "label": "Tahoe (New)"
+  },
+  {
+    "value": "APV Cargo",
+    "label": "APV Cargo"
+  },
+  {
+    "value": "Tracker",
+    "label": "Tracker"
+  },
+  {
+    "value": "TrailBlazer",
+    "label": "TrailBlazer"
+  },
+  {
+    "value": "Trailblazer",
+    "label": "Trailblazer"
+  },
+  {
+    "value": "Traverse",
+    "label": "Traverse"
+  },
+  {
+    "value": "Trax",
+    "label": "Trax"
+  },
+  {
+    "value": "Uplander Cargo",
+    "label": "Uplander Cargo"
+  },
+  {
+    "value": "Uplander Passenger",
+    "label": "Uplander Passenger"
+  },
+  {
+    "value": "Venture Cargo",
+    "label": "Venture Cargo"
+  },
+  {
+    "value": "Venture Passenger",
+    "label": "Venture Passenger"
+  },
+  {
+    "value": "Volt",
+    "label": "Volt"
+  },
+  {
+    "value": "Astro Cargo",
+    "label": "Astro Cargo"
+  },
+  {
+    "value": "Astro Passenger",
+    "label": "Astro Passenger"
+  },
+  {
+    "value": "Avalanche",
+    "label": "Avalanche"
+  },
+  {
+    "value": "Avalanche 1500",
+    "label": "Avalanche 1500"
+  },
+  {
+    "value": "Avalanche 2500",
+    "label": "Avalanche 2500"
+  },
+  {
+    "value": "Aveo",
+    "label": "Aveo"
+  },
+  {
+    "value": "Beretta",
+    "label": "Beretta"
+  },
+  {
+    "value": "Blazer",
+    "label": "Blazer"
+  },
+  {
+    "value": "Bolt EV",
+    "label": "Bolt EV"
+  },
+  {
+    "value": "2500 Crew Cab",
+    "label": "2500 Crew Cab"
+  },
+  {
+    "value": "2500 Extended Cab",
+    "label": "2500 Extended Cab"
+  },
+  {
+    "value": "2500 HD Extended Cab",
+    "label": "2500 HD Extended Cab"
+  },
+  {
+    "value": "Camaro",
+    "label": "Camaro"
+  },
+  {
+    "value": "2500 HD Regular Cab",
+    "label": "2500 HD Regular Cab"
+  },
+  {
+    "value": "Caprice",
+    "label": "Caprice"
+  },
+  {
+    "value": "Caprice Classic",
+    "label": "Caprice Classic"
+  },
+  {
+    "value": "Captiva Sport",
+    "label": "Captiva Sport"
+  },
+  {
+    "value": "Cavalier",
+    "label": "Cavalier"
+  },
+  {
+    "value": "City Express",
+    "label": "City Express"
+  }
+]

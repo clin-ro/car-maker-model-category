@@ -1,0 +1,42 @@
+[
+  {
+    "value": "Clubman",
+    "label": "Clubman"
+  },
+  {
+    "value": "Convertible",
+    "label": "Convertible"
+  },
+  {
+    "value": "Cooper",
+    "label": "Cooper"
+  },
+  {
+    "value": "Countryman",
+    "label": "Countryman"
+  },
+  {
+    "value": "Coupe",
+    "label": "Coupe"
+  },
+  {
+    "value": "Hardtop",
+    "label": "Hardtop"
+  },
+  {
+    "value": "Hardtop 2 Door",
+    "label": "Hardtop 2 Door"
+  },
+  {
+    "value": "Hardtop 4 Door",
+    "label": "Hardtop 4 Door"
+  },
+  {
+    "value": "Paceman",
+    "label": "Paceman"
+  },
+  {
+    "value": "Roadster",
+    "label": "Roadster"
+  }
+]

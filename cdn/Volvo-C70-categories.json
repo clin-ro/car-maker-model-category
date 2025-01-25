@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Convertible",
+    "label": "Convertible"
+  },
+  {
+    "value": "Convertible, Coupe",
+    "label": "Convertible, Coupe"
+  },
+  {
+    "value": "Coupe, Convertible",
+    "label": "Coupe, Convertible"
+  }
+]

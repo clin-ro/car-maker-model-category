@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Coupe",
+    "label": "Coupe"
+  },
+  {
+    "value": "Sedan, Coupe",
+    "label": "Sedan, Coupe"
+  },
+  {
+    "value": "Coupe, Sedan",
+    "label": "Coupe, Sedan"
+  },
+  {
+    "value": "Sedan, Coupe, Convertible",
+    "label": "Sedan, Coupe, Convertible"
+  },
+  {
+    "value": "Coupe, Sedan, Convertible",
+    "label": "Coupe, Sedan, Convertible"
+  },
+  {
+    "value": "Convertible, Sedan, Coupe",
+    "label": "Convertible, Sedan, Coupe"
+  },
+  {
+    "value": "Coupe, Convertible, Sedan",
+    "label": "Coupe, Convertible, Sedan"
+  }
+]

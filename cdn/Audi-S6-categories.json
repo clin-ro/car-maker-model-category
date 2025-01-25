@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Sedan",
+    "label": "Sedan"
+  },
+  {
+    "value": "Wagon",
+    "label": "Wagon"
+  },
+  {
+    "value": "Wagon, Sedan",
+    "label": "Wagon, Sedan"
+  }
+]

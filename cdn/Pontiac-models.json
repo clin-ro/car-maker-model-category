@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Firebird",
+    "label": "Firebird"
+  },
+  {
+    "value": "G3",
+    "label": "G3"
+  },
+  {
+    "value": "G5",
+    "label": "G5"
+  },
+  {
+    "value": "G6",
+    "label": "G6"
+  },
+  {
+    "value": "G6 (2009.5)",
+    "label": "G6 (2009.5)"
+  },
+  {
+    "value": "G8",
+    "label": "G8"
+  },
+  {
+    "value": "GTO",
+    "label": "GTO"
+  },
+  {
+    "value": "Grand Am",
+    "label": "Grand Am"
+  },
+  {
+    "value": "Grand Prix",
+    "label": "Grand Prix"
+  },
+  {
+    "value": "LeMans",
+    "label": "LeMans"
+  },
+  {
+    "value": "Montana",
+    "label": "Montana"
+  },
+  {
+    "value": "Montana SV6",
+    "label": "Montana SV6"
+  },
+  {
+    "value": "Solstice",
+    "label": "Solstice"
+  },
+  {
+    "value": "Sunbird",
+    "label": "Sunbird"
+  },
+  {
+    "value": "Sunfire",
+    "label": "Sunfire"
+  },
+  {
+    "value": "Torrent",
+    "label": "Torrent"
+  },
+  {
+    "value": "Trans Sport",
+    "label": "Trans Sport"
+  },
+  {
+    "value": "Vibe",
+    "label": "Vibe"
+  },
+  {
+    "value": "Aztek",
+    "label": "Aztek"
+  },
+  {
+    "value": "Bonneville",
+    "label": "Bonneville"
+  }
+]

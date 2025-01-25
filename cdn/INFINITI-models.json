@@ -1,0 +1,74 @@
+[
+  {
+    "value": "EX",
+    "label": "EX"
+  },
+  {
+    "value": "FX",
+    "label": "FX"
+  },
+  {
+    "value": "G",
+    "label": "G"
+  },
+  {
+    "value": "I",
+    "label": "I"
+  },
+  {
+    "value": "J",
+    "label": "J"
+  },
+  {
+    "value": "JX",
+    "label": "JX"
+  },
+  {
+    "value": "M",
+    "label": "M"
+  },
+  {
+    "value": "Q",
+    "label": "Q"
+  },
+  {
+    "value": "Q40",
+    "label": "Q40"
+  },
+  {
+    "value": "Q50",
+    "label": "Q50"
+  },
+  {
+    "value": "Q60",
+    "label": "Q60"
+  },
+  {
+    "value": "Q70",
+    "label": "Q70"
+  },
+  {
+    "value": "QX",
+    "label": "QX"
+  },
+  {
+    "value": "QX30",
+    "label": "QX30"
+  },
+  {
+    "value": "QX50",
+    "label": "QX50"
+  },
+  {
+    "value": "QX60",
+    "label": "QX60"
+  },
+  {
+    "value": "QX70",
+    "label": "QX70"
+  },
+  {
+    "value": "QX80",
+    "label": "QX80"
+  }
+]

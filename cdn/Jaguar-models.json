@@ -1,0 +1,42 @@
+[
+  {
+    "value": "E-PACE",
+    "label": "E-PACE"
+  },
+  {
+    "value": "F-PACE",
+    "label": "F-PACE"
+  },
+  {
+    "value": "F-TYPE",
+    "label": "F-TYPE"
+  },
+  {
+    "value": "I-PACE",
+    "label": "I-PACE"
+  },
+  {
+    "value": "S-Type",
+    "label": "S-Type"
+  },
+  {
+    "value": "X-Type",
+    "label": "X-Type"
+  },
+  {
+    "value": "XE",
+    "label": "XE"
+  },
+  {
+    "value": "XF",
+    "label": "XF"
+  },
+  {
+    "value": "XJ",
+    "label": "XJ"
+  },
+  {
+    "value": "XK",
+    "label": "XK"
+  }
+]

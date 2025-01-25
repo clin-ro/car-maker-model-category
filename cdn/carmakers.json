@@ -1,0 +1,258 @@
+[
+  {
+    "value": "BMW",
+    "label": "BMW"
+  },
+  {
+    "value": "Audi",
+    "label": "Audi"
+  },
+  {
+    "value": "FIAT",
+    "label": "FIAT"
+  },
+  {
+    "value": "Ram",
+    "label": "Ram"
+  },
+  {
+    "value": "GMC",
+    "label": "GMC"
+  },
+  {
+    "value": "Chevrolet",
+    "label": "Chevrolet"
+  },
+  {
+    "value": "Honda",
+    "label": "Honda"
+  },
+  {
+    "value": "Ford",
+    "label": "Ford"
+  },
+  {
+    "value": "MINI",
+    "label": "MINI"
+  },
+  {
+    "value": "Dodge",
+    "label": "Dodge"
+  },
+  {
+    "value": "Plymouth",
+    "label": "Plymouth"
+  },
+  {
+    "value": "Jeep",
+    "label": "Jeep"
+  },
+  {
+    "value": "Chrysler",
+    "label": "Chrysler"
+  },
+  {
+    "value": "Lincoln",
+    "label": "Lincoln"
+  },
+  {
+    "value": "Bentley",
+    "label": "Bentley"
+  },
+  {
+    "value": "Toyota",
+    "label": "Toyota"
+  },
+  {
+    "value": "Volkswagen",
+    "label": "Volkswagen"
+  },
+  {
+    "value": "Mercury",
+    "label": "Mercury"
+  },
+  {
+    "value": "Maserati",
+    "label": "Maserati"
+  },
+  {
+    "value": "Subaru",
+    "label": "Subaru"
+  },
+  {
+    "value": "Oldsmobile",
+    "label": "Oldsmobile"
+  },
+  {
+    "value": "Aston Martin",
+    "label": "Aston Martin"
+  },
+  {
+    "value": "Cadillac",
+    "label": "Cadillac"
+  },
+  {
+    "value": "Saab",
+    "label": "Saab"
+  },
+  {
+    "value": "Rolls-Royce",
+    "label": "Rolls-Royce"
+  },
+  {
+    "value": "Land Rover",
+    "label": "Land Rover"
+  },
+  {
+    "value": "Mitsubishi",
+    "label": "Mitsubishi"
+  },
+  {
+    "value": "Mercedes-Benz",
+    "label": "Mercedes-Benz"
+  },
+  {
+    "value": "Jaguar",
+    "label": "Jaguar"
+  },
+  {
+    "value": "Lexus",
+    "label": "Lexus"
+  },
+  {
+    "value": "INFINITI",
+    "label": "INFINITI"
+  },
+  {
+    "value": "Hyundai",
+    "label": "Hyundai"
+  },
+  {
+    "value": "Lotus",
+    "label": "Lotus"
+  },
+  {
+    "value": "Buick",
+    "label": "Buick"
+  },
+  {
+    "value": "Suzuki",
+    "label": "Suzuki"
+  },
+  {
+    "value": "Panoz",
+    "label": "Panoz"
+  },
+  {
+    "value": "Nissan",
+    "label": "Nissan"
+  },
+  {
+    "value": "MAZDA",
+    "label": "MAZDA"
+  },
+  {
+    "value": "Ferrari",
+    "label": "Ferrari"
+  },
+  {
+    "value": "Scion",
+    "label": "Scion"
+  },
+  {
+    "value": "Pontiac",
+    "label": "Pontiac"
+  },
+  {
+    "value": "Kia",
+    "label": "Kia"
+  },
+  {
+    "value": "Genesis",
+    "label": "Genesis"
+  },
+  {
+    "value": "Lamborghini",
+    "label": "Lamborghini"
+  },
+  {
+    "value": "Alfa Romeo",
+    "label": "Alfa Romeo"
+  },
+  {
+    "value": "HUMMER",
+    "label": "HUMMER"
+  },
+  {
+    "value": "Isuzu",
+    "label": "Isuzu"
+  },
+  {
+    "value": "Acura",
+    "label": "Acura"
+  },
+  {
+    "value": "Saturn",
+    "label": "Saturn"
+  },
+  {
+    "value": "Fisker",
+    "label": "Fisker"
+  },
+  {
+    "value": "Daewoo",
+    "label": "Daewoo"
+  },
+  {
+    "value": "McLaren",
+    "label": "McLaren"
+  },
+  {
+    "value": "Porsche",
+    "label": "Porsche"
+  },
+  {
+    "value": "Geo",
+    "label": "Geo"
+  },
+  {
+    "value": "Tesla",
+    "label": "Tesla"
+  },
+  {
+    "value": "Maybach",
+    "label": "Maybach"
+  },
+  {
+    "value": "Eagle",
+    "label": "Eagle"
+  },
+  {
+    "value": "Rivian",
+    "label": "Rivian"
+  },
+  {
+    "value": "Volvo",
+    "label": "Volvo"
+  },
+  {
+    "value": "Daihatsu",
+    "label": "Daihatsu"
+  },
+  {
+    "value": "Freightliner",
+    "label": "Freightliner"
+  },
+  {
+    "value": "SRT",
+    "label": "SRT"
+  },
+  {
+    "value": "smart",
+    "label": "smart"
+  },
+  {
+    "value": "Polestar",
+    "label": "Polestar"
+  }
+]

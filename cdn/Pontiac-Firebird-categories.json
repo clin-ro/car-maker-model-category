@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Coupe, Convertible",
+    "label": "Coupe, Convertible"
+  },
+  {
+    "value": "Convertible, Coupe",
+    "label": "Convertible, Coupe"
+  },
+  {
+    "value": "Hatchback, Convertible",
+    "label": "Hatchback, Convertible"
+  },
+  {
+    "value": "Convertible, Hatchback",
+    "label": "Convertible, Hatchback"
+  },
+  {
+    "value": "Hatchback",
+    "label": "Hatchback"
+  }
+]

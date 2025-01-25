@@ -1,0 +1,350 @@
+[
+  {
+    "value": "Club Wagon",
+    "label": "Club Wagon"
+  },
+  {
+    "value": "Contour",
+    "label": "Contour"
+  },
+  {
+    "value": "Crown Victoria",
+    "label": "Crown Victoria"
+  },
+  {
+    "value": "E150 Cargo",
+    "label": "E150 Cargo"
+  },
+  {
+    "value": "E150 Passenger",
+    "label": "E150 Passenger"
+  },
+  {
+    "value": "E150 Super Duty Cargo",
+    "label": "E150 Super Duty Cargo"
+  },
+  {
+    "value": "E150 Super Duty Passenger",
+    "label": "E150 Super Duty Passenger"
+  },
+  {
+    "value": "E250 Cargo",
+    "label": "E250 Cargo"
+  },
+  {
+    "value": "E250 Super Duty Cargo",
+    "label": "E250 Super Duty Cargo"
+  },
+  {
+    "value": "E350 Super Duty Cargo",
+    "label": "E350 Super Duty Cargo"
+  },
+  {
+    "value": "E350 Super Duty Passenger",
+    "label": "E350 Super Duty Passenger"
+  },
+  {
+    "value": "EcoSport",
+    "label": "EcoSport"
+  },
+  {
+    "value": "Econoline E150 Cargo",
+    "label": "Econoline E150 Cargo"
+  },
+  {
+    "value": "Econoline E150 Passenger",
+    "label": "Econoline E150 Passenger"
+  },
+  {
+    "value": "Econoline E250 Cargo",
+    "label": "Econoline E250 Cargo"
+  },
+  {
+    "value": "Econoline E350 Cargo",
+    "label": "Econoline E350 Cargo"
+  },
+  {
+    "value": "Econoline E350 Super Duty Cargo",
+    "label": "Econoline E350 Super Duty Cargo"
+  },
+  {
+    "value": "Econoline E350 Super Duty Passenger",
+    "label": "Econoline E350 Super Duty Passenger"
+  },
+  {
+    "value": "Edge",
+    "label": "Edge"
+  },
+  {
+    "value": "Escape",
+    "label": "Escape"
+  },
+  {
+    "value": "Escort",
+    "label": "Escort"
+  },
+  {
+    "value": "Excursion",
+    "label": "Excursion"
+  },
+  {
+    "value": "Expedition",
+    "label": "Expedition"
+  },
+  {
+    "value": "Expedition EL",
+    "label": "Expedition EL"
+  },
+  {
+    "value": "Expedition MAX",
+    "label": "Expedition MAX"
+  },
+  {
+    "value": "Explorer",
+    "label": "Explorer"
+  },
+  {
+    "value": "Explorer Sport",
+    "label": "Explorer Sport"
+  },
+  {
+    "value": "Explorer Sport Trac",
+    "label": "Explorer Sport Trac"
+  },
+  {
+    "value": "F150 (Heritage) Regular Cab",
+    "label": "F150 (Heritage) Regular Cab"
+  },
+  {
+    "value": "F150 (Heritage) Super Cab",
+    "label": "F150 (Heritage) Super Cab"
+  },
+  {
+    "value": "F150 Regular Cab",
+    "label": "F150 Regular Cab"
+  },
+  {
+    "value": "F150 Super Cab",
+    "label": "F150 Super Cab"
+  },
+  {
+    "value": "F150 SuperCrew Cab",
+    "label": "F150 SuperCrew Cab"
+  },
+  {
+    "value": "F250 Crew Cab",
+    "label": "F250 Crew Cab"
+  },
+  {
+    "value": "F250 Regular Cab",
+    "label": "F250 Regular Cab"
+  },
+  {
+    "value": "F250 Super Cab",
+    "label": "F250 Super Cab"
+  },
+  {
+    "value": "F250 Super Duty Crew Cab",
+    "label": "F250 Super Duty Crew Cab"
+  },
+  {
+    "value": "F250 Super Duty Regular Cab",
+    "label": "F250 Super Duty Regular Cab"
+  },
+  {
+    "value": "F250 Super Duty Super Cab",
+    "label": "F250 Super Duty Super Cab"
+  },
+  {
+    "value": "F350 Crew Cab",
+    "label": "F350 Crew Cab"
+  },
+  {
+    "value": "F350 Regular Cab",
+    "label": "F350 Regular Cab"
+  },
+  {
+    "value": "F350 Super Cab",
+    "label": "F350 Super Cab"
+  },
+  {
+    "value": "F350 Super Duty Crew Cab",
+    "label": "F350 Super Duty Crew Cab"
+  },
+  {
+    "value": "F350 Super Duty Regular Cab",
+    "label": "F350 Super Duty Regular Cab"
+  },
+  {
+    "value": "F350 Super Duty Super Cab",
+    "label": "F350 Super Duty Super Cab"
+  },
+  {
+    "value": "F450 Super Duty Crew Cab",
+    "label": "F450 Super Duty Crew Cab"
+  },
+  {
+    "value": "Festiva",
+    "label": "Festiva"
+  },
+  {
+    "value": "Fiesta",
+    "label": "Fiesta"
+  },
+  {
+    "value": "Five Hundred",
+    "label": "Five Hundred"
+  },
+  {
+    "value": "Flex",
+    "label": "Flex"
+  },
+  {
+    "value": "Focus",
+    "label": "Focus"
+  },
+  {
+    "value": "Focus ST",
+    "label": "Focus ST"
+  },
+  {
+    "value": "Freestar Cargo",
+    "label": "Freestar Cargo"
+  },
+  {
+    "value": "Freestar Passenger",
+    "label": "Freestar Passenger"
+  },
+  {
+    "value": "Freestyle",
+    "label": "Freestyle"
+  },
+  {
+    "value": "Fusion",
+    "label": "Fusion"
+  },
+  {
+    "value": "Fusion Energi",
+    "label": "Fusion Energi"
+  },
+  {
+    "value": "GT",
+    "label": "GT"
+  },
+  {
+    "value": "Mustang",
+    "label": "Mustang"
+  },
+  {
+    "value": "Probe",
+    "label": "Probe"
+  },
+  {
+    "value": "Ranger Regular Cab",
+    "label": "Ranger Regular Cab"
+  },
+  {
+    "value": "Ranger Super Cab",
+    "label": "Ranger Super Cab"
+  },
+  {
+    "value": "Ranger SuperCab",
+    "label": "Ranger SuperCab"
+  },
+  {
+    "value": "Ranger SuperCrew",
+    "label": "Ranger SuperCrew"
+  },
+  {
+    "value": "Taurus",
+    "label": "Taurus"
+  },
+  {
+    "value": "Taurus X",
+    "label": "Taurus X"
+  },
+  {
+    "value": "Tempo",
+    "label": "Tempo"
+  },
+  {
+    "value": "Thunderbird",
+    "label": "Thunderbird"
+  },
+  {
+    "value": "Transit 150 Van",
+    "label": "Transit 150 Van"
+  },
+  {
+    "value": "Transit 150 Wagon",
+    "label": "Transit 150 Wagon"
+  },
+  {
+    "value": "Transit 250 Van",
+    "label": "Transit 250 Van"
+  },
+  {
+    "value": "Transit 350 HD Van",
+    "label": "Transit 350 HD Van"
+  },
+  {
+    "value": "Transit 350 Van",
+    "label": "Transit 350 Van"
+  },
+  {
+    "value": "Transit 350 Wagon",
+    "label": "Transit 350 Wagon"
+  },
+  {
+    "value": "Transit Connect Cargo",
+    "label": "Transit Connect Cargo"
+  },
+  {
+    "value": "Transit Connect Cargo Van",
+    "label": "Transit Connect Cargo Van"
+  },
+  {
+    "value": "Transit Connect Passenger",
+    "label": "Transit Connect Passenger"
+  },
+  {
+    "value": "Windstar Cargo",
+    "label": "Windstar Cargo"
+  },
+  {
+    "value": "Windstar Passenger",
+    "label": "Windstar Passenger"
+  },
+  {
+    "value": "ZX2",
+    "label": "ZX2"
+  },
+  {
+    "value": "Aerostar Cargo",
+    "label": "Aerostar Cargo"
+  },
+  {
+    "value": "Aerostar Passenger",
+    "label": "Aerostar Passenger"
+  },
+  {
+    "value": "Aspire",
+    "label": "Aspire"
+  },
+  {
+    "value": "Bronco",
+    "label": "Bronco"
+  },
+  {
+    "value": "Bronco Sport",
+    "label": "Bronco Sport"
+  },
+  {
+    "value": "C-MAX Energi",
+    "label": "C-MAX Energi"
+  },
+  {
+    "value": "C-MAX Hybrid",
+    "label": "C-MAX Hybrid"
+  }
+]

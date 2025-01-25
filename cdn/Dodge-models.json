@@ -1,0 +1,270 @@
+[
+  {
+    "value": "Colt",
+    "label": "Colt"
+  },
+  {
+    "value": "D150 Club Cab",
+    "label": "D150 Club Cab"
+  },
+  {
+    "value": "D150 Regular Cab",
+    "label": "D150 Regular Cab"
+  },
+  {
+    "value": "D250 Club Cab",
+    "label": "D250 Club Cab"
+  },
+  {
+    "value": "D250 Regular Cab",
+    "label": "D250 Regular Cab"
+  },
+  {
+    "value": "D350 Club Cab",
+    "label": "D350 Club Cab"
+  },
+  {
+    "value": "D350 Regular Cab",
+    "label": "D350 Regular Cab"
+  },
+  {
+    "value": "Dakota Club Cab",
+    "label": "Dakota Club Cab"
+  },
+  {
+    "value": "Dakota Crew Cab",
+    "label": "Dakota Crew Cab"
+  },
+  {
+    "value": "Dakota Extended Cab",
+    "label": "Dakota Extended Cab"
+  },
+  {
+    "value": "Dakota Quad Cab",
+    "label": "Dakota Quad Cab"
+  },
+  {
+    "value": "Dakota Regular Cab",
+    "label": "Dakota Regular Cab"
+  },
+  {
+    "value": "Dart",
+    "label": "Dart"
+  },
+  {
+    "value": "Daytona",
+    "label": "Daytona"
+  },
+  {
+    "value": "Durango",
+    "label": "Durango"
+  },
+  {
+    "value": "Dynasty",
+    "label": "Dynasty"
+  },
+  {
+    "value": "Grand Caravan Cargo",
+    "label": "Grand Caravan Cargo"
+  },
+  {
+    "value": "Grand Caravan Passenger",
+    "label": "Grand Caravan Passenger"
+  },
+  {
+    "value": "Intrepid",
+    "label": "Intrepid"
+  },
+  {
+    "value": "Journey",
+    "label": "Journey"
+  },
+  {
+    "value": "Magnum",
+    "label": "Magnum"
+  },
+  {
+    "value": "Monaco",
+    "label": "Monaco"
+  },
+  {
+    "value": "Neon",
+    "label": "Neon"
+  },
+  {
+    "value": "Nitro",
+    "label": "Nitro"
+  },
+  {
+    "value": "Ram 1500 Club Cab",
+    "label": "Ram 1500 Club Cab"
+  },
+  {
+    "value": "Ram 1500 Crew Cab",
+    "label": "Ram 1500 Crew Cab"
+  },
+  {
+    "value": "Ram 1500 Mega Cab",
+    "label": "Ram 1500 Mega Cab"
+  },
+  {
+    "value": "Ram 1500 Quad Cab",
+    "label": "Ram 1500 Quad Cab"
+  },
+  {
+    "value": "Ram 1500 Regular Cab",
+    "label": "Ram 1500 Regular Cab"
+  },
+  {
+    "value": "Ram 2500 Club Cab",
+    "label": "Ram 2500 Club Cab"
+  },
+  {
+    "value": "Ram 2500 Crew Cab",
+    "label": "Ram 2500 Crew Cab"
+  },
+  {
+    "value": "Ram 2500 Mega Cab",
+    "label": "Ram 2500 Mega Cab"
+  },
+  {
+    "value": "Ram 2500 Quad Cab",
+    "label": "Ram 2500 Quad Cab"
+  },
+  {
+    "value": "Ram 2500 Regular Cab",
+    "label": "Ram 2500 Regular Cab"
+  },
+  {
+    "value": "Ram 3500 Club Cab",
+    "label": "Ram 3500 Club Cab"
+  },
+  {
+    "value": "Ram 3500 Crew Cab",
+    "label": "Ram 3500 Crew Cab"
+  },
+  {
+    "value": "Ram 3500 Mega Cab",
+    "label": "Ram 3500 Mega Cab"
+  },
+  {
+    "value": "Ram 3500 Quad Cab",
+    "label": "Ram 3500 Quad Cab"
+  },
+  {
+    "value": "Ram 3500 Regular Cab",
+    "label": "Ram 3500 Regular Cab"
+  },
+  {
+    "value": "Ram 50 Regular Cab",
+    "label": "Ram 50 Regular Cab"
+  },
+  {
+    "value": "Ram Van 1500",
+    "label": "Ram Van 1500"
+  },
+  {
+    "value": "Ram Van 2500",
+    "label": "Ram Van 2500"
+  },
+  {
+    "value": "Ram Van 3500",
+    "label": "Ram Van 3500"
+  },
+  {
+    "value": "Ram Van B150",
+    "label": "Ram Van B150"
+  },
+  {
+    "value": "Ram Van B250",
+    "label": "Ram Van B250"
+  },
+  {
+    "value": "Ram Van B350",
+    "label": "Ram Van B350"
+  },
+  {
+    "value": "Ram Wagon 1500",
+    "label": "Ram Wagon 1500"
+  },
+  {
+    "value": "Ram Wagon 2500",
+    "label": "Ram Wagon 2500"
+  },
+  {
+    "value": "Ram Wagon 3500",
+    "label": "Ram Wagon 3500"
+  },
+  {
+    "value": "Ram Wagon B150",
+    "label": "Ram Wagon B150"
+  },
+  {
+    "value": "Ram Wagon B250",
+    "label": "Ram Wagon B250"
+  },
+  {
+    "value": "Ram Wagon B350",
+    "label": "Ram Wagon B350"
+  },
+  {
+    "value": "Ramcharger",
+    "label": "Ramcharger"
+  },
+  {
+    "value": "Shadow",
+    "label": "Shadow"
+  },
+  {
+    "value": "Spirit",
+    "label": "Spirit"
+  },
+  {
+    "value": "Sprinter 2500 Cargo",
+    "label": "Sprinter 2500 Cargo"
+  },
+  {
+    "value": "Sprinter 2500 Passenger",
+    "label": "Sprinter 2500 Passenger"
+  },
+  {
+    "value": "Sprinter 3500 Cargo",
+    "label": "Sprinter 3500 Cargo"
+  },
+  {
+    "value": "Stealth",
+    "label": "Stealth"
+  },
+  {
+    "value": "Stratus",
+    "label": "Stratus"
+  },
+  {
+    "value": "Viper",
+    "label": "Viper"
+  },
+  {
+    "value": "Avenger",
+    "label": "Avenger"
+  },
+  {
+    "value": "Caliber",
+    "label": "Caliber"
+  },
+  {
+    "value": "Caravan Cargo",
+    "label": "Caravan Cargo"
+  },
+  {
+    "value": "Caravan Passenger",
+    "label": "Caravan Passenger"
+  },
+  {
+    "value": "Challenger",
+    "label": "Challenger"
+  },
+  {
+    "value": "Charger",
+    "label": "Charger"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "value": "1 Series",
+    "label": "1 Series"
+  },
+  {
+    "value": "3 Series",
+    "label": "3 Series"
+  },
+  {
+    "value": "4 Series",
+    "label": "4 Series"
+  },
+  {
+    "value": "5 Series",
+    "label": "5 Series"
+  },
+  {
+    "value": "M",
+    "label": "M"
+  },
+  {
+    "value": "M2",
+    "label": "M2"
+  },
+  {
+    "value": "M3",
+    "label": "M3"
+  },
+  {
+    "value": "M4",
+    "label": "M4"
+  },
+  {
+    "value": "M5",
+    "label": "M5"
+  },
+  {
+    "value": "M6",
+    "label": "M6"
+  },
+  {
+    "value": "6 Series",
+    "label": "6 Series"
+  },
+  {
+    "value": "7 Series",
+    "label": "7 Series"
+  },
+  {
+    "value": "8 Series",
+    "label": "8 Series"
+  },
+  {
+    "value": "X1",
+    "label": "X1"
+  },
+  {
+    "value": "X2",
+    "label": "X2"
+  },
+  {
+    "value": "X3",
+    "label": "X3"
+  },
+  {
+    "value": "X4",
+    "label": "X4"
+  },
+  {
+    "value": "X5",
+    "label": "X5"
+  },
+  {
+    "value": "X5 M",
+    "label": "X5 M"
+  },
+  {
+    "value": "X6",
+    "label": "X6"
+  },
+  {
+    "value": "X6 M",
+    "label": "X6 M"
+  },
+  {
+    "value": "X7",
+    "label": "X7"
+  },
+  {
+    "value": "Z3",
+    "label": "Z3"
+  },
+  {
+    "value": "Z4",
+    "label": "Z4"
+  },
+  {
+    "value": "Z4 M",
+    "label": "Z4 M"
+  },
+  {
+    "value": "Z8",
+    "label": "Z8"
+  },
+  {
+    "value": "i3",
+    "label": "i3"
+  },
+  {
+    "value": "i8",
+    "label": "i8"
+  },
+  {
+    "value": "Alpina B7",
+    "label": "Alpina B7"
+  },
+  {
+    "value": "2 Series",
+    "label": "2 Series"
+  }
+]

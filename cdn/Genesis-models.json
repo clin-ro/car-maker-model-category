@@ -1,0 +1,18 @@
+[
+  {
+    "value": "G70",
+    "label": "G70"
+  },
+  {
+    "value": "G80",
+    "label": "G80"
+  },
+  {
+    "value": "G90",
+    "label": "G90"
+  },
+  {
+    "value": "GV80",
+    "label": "GV80"
+  }
+]

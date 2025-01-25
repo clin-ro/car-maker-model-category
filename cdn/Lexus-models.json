@@ -1,0 +1,66 @@
+[
+  {
+    "value": "ES",
+    "label": "ES"
+  },
+  {
+    "value": "GS",
+    "label": "GS"
+  },
+  {
+    "value": "GX",
+    "label": "GX"
+  },
+  {
+    "value": "HS",
+    "label": "HS"
+  },
+  {
+    "value": "IS",
+    "label": "IS"
+  },
+  {
+    "value": "IS F",
+    "label": "IS F"
+  },
+  {
+    "value": "LC",
+    "label": "LC"
+  },
+  {
+    "value": "LFA",
+    "label": "LFA"
+  },
+  {
+    "value": "LS",
+    "label": "LS"
+  },
+  {
+    "value": "LX",
+    "label": "LX"
+  },
+  {
+    "value": "NX",
+    "label": "NX"
+  },
+  {
+    "value": "RC",
+    "label": "RC"
+  },
+  {
+    "value": "RX",
+    "label": "RX"
+  },
+  {
+    "value": "SC",
+    "label": "SC"
+  },
+  {
+    "value": "UX",
+    "label": "UX"
+  },
+  {
+    "value": "CT",
+    "label": "CT"
+  }
+]

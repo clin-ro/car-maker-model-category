@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Sprinter 2500 Cargo",
+    "label": "Sprinter 2500 Cargo"
+  },
+  {
+    "value": "Sprinter 2500 Crew",
+    "label": "Sprinter 2500 Crew"
+  },
+  {
+    "value": "Sprinter 2500 Passenger",
+    "label": "Sprinter 2500 Passenger"
+  },
+  {
+    "value": "Sprinter 3500 Cargo",
+    "label": "Sprinter 3500 Cargo"
+  },
+  {
+    "value": "Sprinter 3500XD Cargo",
+    "label": "Sprinter 3500XD Cargo"
+  },
+  {
+    "value": "Sprinter WORKER Cargo",
+    "label": "Sprinter WORKER Cargo"
+  },
+  {
+    "value": "Sprinter WORKER Passenger",
+    "label": "Sprinter WORKER Passenger"
+  }
+]

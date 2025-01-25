@@ -1,0 +1,314 @@
+[
+  {
+    "value": "E-Class",
+    "label": "E-Class"
+  },
+  {
+    "value": "300 CE",
+    "label": "300 CE"
+  },
+  {
+    "value": "300 D",
+    "label": "300 D"
+  },
+  {
+    "value": "300 E",
+    "label": "300 E"
+  },
+  {
+    "value": "300 SD",
+    "label": "300 SD"
+  },
+  {
+    "value": "300 SE",
+    "label": "300 SE"
+  },
+  {
+    "value": "300 SL",
+    "label": "300 SL"
+  },
+  {
+    "value": "300 TE",
+    "label": "300 TE"
+  },
+  {
+    "value": "G-Class",
+    "label": "G-Class"
+  },
+  {
+    "value": "GL-Class",
+    "label": "GL-Class"
+  },
+  {
+    "value": "GLA",
+    "label": "GLA"
+  },
+  {
+    "value": "GLA-Class",
+    "label": "GLA-Class"
+  },
+  {
+    "value": "GLB",
+    "label": "GLB"
+  },
+  {
+    "value": "GLC",
+    "label": "GLC"
+  },
+  {
+    "value": "GLC Coupe",
+    "label": "GLC Coupe"
+  },
+  {
+    "value": "GLE",
+    "label": "GLE"
+  },
+  {
+    "value": "GLE Coupe",
+    "label": "GLE Coupe"
+  },
+  {
+    "value": "GLK-Class",
+    "label": "GLK-Class"
+  },
+  {
+    "value": "GLS",
+    "label": "GLS"
+  },
+  {
+    "value": "400 E",
+    "label": "400 E"
+  },
+  {
+    "value": "400 SE",
+    "label": "400 SE"
+  },
+  {
+    "value": "400 SEL",
+    "label": "400 SEL"
+  },
+  {
+    "value": "M-Class",
+    "label": "M-Class"
+  },
+  {
+    "value": "500 E",
+    "label": "500 E"
+  },
+  {
+    "value": "500 SEC",
+    "label": "500 SEC"
+  },
+  {
+    "value": "500 SEL",
+    "label": "500 SEL"
+  },
+  {
+    "value": "500 SL",
+    "label": "500 SL"
+  },
+  {
+    "value": "Mercedes-AMG C-Class",
+    "label": "Mercedes-AMG C-Class"
+  },
+  {
+    "value": "Mercedes-AMG CLA",
+    "label": "Mercedes-AMG CLA"
+  },
+  {
+    "value": "Mercedes-AMG CLS",
+    "label": "Mercedes-AMG CLS"
+  },
+  {
+    "value": "Mercedes-AMG E-Class",
+    "label": "Mercedes-AMG E-Class"
+  },
+  {
+    "value": "Mercedes-AMG G-Class",
+    "label": "Mercedes-AMG G-Class"
+  },
+  {
+    "value": "Mercedes-AMG GLA",
+    "label": "Mercedes-AMG GLA"
+  },
+  {
+    "value": "Mercedes-AMG GLC",
+    "label": "Mercedes-AMG GLC"
+  },
+  {
+    "value": "Mercedes-AMG GLC Coupe",
+    "label": "Mercedes-AMG GLC Coupe"
+  },
+  {
+    "value": "Mercedes-AMG GLE",
+    "label": "Mercedes-AMG GLE"
+  },
+  {
+    "value": "Mercedes-AMG GLE Coupe",
+    "label": "Mercedes-AMG GLE Coupe"
+  },
+  {
+    "value": "Mercedes-AMG GLS",
+    "label": "Mercedes-AMG GLS"
+  },
+  {
+    "value": "Mercedes-AMG GT",
+    "label": "Mercedes-AMG GT"
+  },
+  {
+    "value": "Mercedes-AMG S-Class",
+    "label": "Mercedes-AMG S-Class"
+  },
+  {
+    "value": "Mercedes-AMG SL",
+    "label": "Mercedes-AMG SL"
+  },
+  {
+    "value": "Mercedes-AMG SLC",
+    "label": "Mercedes-AMG SLC"
+  },
+  {
+    "value": "Mercedes-AMG SLK",
+    "label": "Mercedes-AMG SLK"
+  },
+  {
+    "value": "Mercedes-Maybach S 600",
+    "label": "Mercedes-Maybach S 600"
+  },
+  {
+    "value": "Mercedes-Maybach S-Class",
+    "label": "Mercedes-Maybach S-Class"
+  },
+  {
+    "value": "Metris Cargo",
+    "label": "Metris Cargo"
+  },
+  {
+    "value": "Metris Passenger",
+    "label": "Metris Passenger"
+  },
+  {
+    "value": "Metris WORKER Cargo",
+    "label": "Metris WORKER Cargo"
+  },
+  {
+    "value": "Metris WORKER Passenger",
+    "label": "Metris WORKER Passenger"
+  },
+  {
+    "value": "600 SEC",
+    "label": "600 SEC"
+  },
+  {
+    "value": "600 SEL",
+    "label": "600 SEL"
+  },
+  {
+    "value": "600 SL",
+    "label": "600 SL"
+  },
+  {
+    "value": "R-Class",
+    "label": "R-Class"
+  },
+  {
+    "value": "S-Class",
+    "label": "S-Class"
+  },
+  {
+    "value": "SL",
+    "label": "SL"
+  },
+  {
+    "value": "SL-Class",
+    "label": "SL-Class"
+  },
+  {
+    "value": "SLC",
+    "label": "SLC"
+  },
+  {
+    "value": "SLK",
+    "label": "SLK"
+  },
+  {
+    "value": "SLK-Class",
+    "label": "SLK-Class"
+  },
+  {
+    "value": "SLR McLaren",
+    "label": "SLR McLaren"
+  },
+  {
+    "value": "SLS-Class",
+    "label": "SLS-Class"
+  },
+  {
+    "value": "A-Class",
+    "label": "A-Class"
+  },
+  {
+    "value": "Sprinter 2500 Cargo",
+    "label": "Sprinter 2500 Cargo"
+  },
+  {
+    "value": "Sprinter 2500 Crew",
+    "label": "Sprinter 2500 Crew"
+  },
+  {
+    "value": "Sprinter 2500 Passenger",
+    "label": "Sprinter 2500 Passenger"
+  },
+  {
+    "value": "Sprinter 3500 Cargo",
+    "label": "Sprinter 3500 Cargo"
+  },
+  {
+    "value": "Sprinter 3500 XD Cargo",
+    "label": "Sprinter 3500 XD Cargo"
+  },
+  {
+    "value": "Sprinter WORKER Cargo",
+    "label": "Sprinter WORKER Cargo"
+  },
+  {
+    "value": "Sprinter WORKER Passenger",
+    "label": "Sprinter WORKER Passenger"
+  },
+  {
+    "value": "190 E",
+    "label": "190 E"
+  },
+  {
+    "value": "B-Class",
+    "label": "B-Class"
+  },
+  {
+    "value": "C-Class",
+    "label": "C-Class"
+  },
+  {
+    "value": "CL-Class",
+    "label": "CL-Class"
+  },
+  {
+    "value": "CLA",
+    "label": "CLA"
+  },
+  {
+    "value": "CLA-Class",
+    "label": "CLA-Class"
+  },
+  {
+    "value": "CLK-Class",
+    "label": "CLK-Class"
+  },
+  {
+    "value": "CLS",
+    "label": "CLS"
+  },
+  {
+    "value": "CLS-Class",
+    "label": "CLS-Class"
+  }
+]

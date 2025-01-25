@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Coupe, Wagon, Sedan, Convertible",
+    "label": "Coupe, Wagon, Sedan, Convertible"
+  },
+  {
+    "value": "Coupe, Sedan, Wagon, Convertible",
+    "label": "Coupe, Sedan, Wagon, Convertible"
+  },
+  {
+    "value": "Sedan, Coupe, Convertible, Wagon",
+    "label": "Sedan, Coupe, Convertible, Wagon"
+  },
+  {
+    "value": "Convertible, Sedan, Coupe, Wagon",
+    "label": "Convertible, Sedan, Coupe, Wagon"
+  },
+  {
+    "value": "Sedan, Coupe, Wagon, Convertible",
+    "label": "Sedan, Coupe, Wagon, Convertible"
+  },
+  {
+    "value": "Convertible, Wagon, Coupe, Sedan",
+    "label": "Convertible, Wagon, Coupe, Sedan"
+  },
+  {
+    "value": "Sedan, Wagon, Coupe, Convertible",
+    "label": "Sedan, Wagon, Coupe, Convertible"
+  },
+  {
+    "value": "Coupe, Convertible, Sedan, Wagon",
+    "label": "Coupe, Convertible, Sedan, Wagon"
+  },
+  {
+    "value": "Sedan, Coupe",
+    "label": "Sedan, Coupe"
+  },
+  {
+    "value": "Sedan, Wagon",
+    "label": "Sedan, Wagon"
+  },
+  {
+    "value": "Sedan",
+    "label": "Sedan"
+  },
+  {
+    "value": "Coupe, Convertible, Wagon, Sedan",
+    "label": "Coupe, Convertible, Wagon, Sedan"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Wagon, Sedan",
+    "label": "Wagon, Sedan"
+  },
+  {
+    "value": "Sedan, Wagon",
+    "label": "Sedan, Wagon"
+  },
+  {
+    "value": "Wagon, Sedan, Coupe",
+    "label": "Wagon, Sedan, Coupe"
+  },
+  {
+    "value": "Sedan, Coupe, Wagon",
+    "label": "Sedan, Coupe, Wagon"
+  },
+  {
+    "value": "Sedan, Wagon, Coupe",
+    "label": "Sedan, Wagon, Coupe"
+  },
+  {
+    "value": "Coupe, Wagon, Sedan",
+    "label": "Coupe, Wagon, Sedan"
+  },
+  {
+    "value": "Coupe, Sedan, Wagon",
+    "label": "Coupe, Sedan, Wagon"
+  },
+  {
+    "value": "Wagon,Sedan",
+    "label": "Wagon,Sedan"
+  }
+]

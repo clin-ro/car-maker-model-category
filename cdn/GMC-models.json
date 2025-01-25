@@ -1,0 +1,342 @@
+[
+  {
+    "value": "1500 Club Coupe",
+    "label": "1500 Club Coupe"
+  },
+  {
+    "value": "2500 Regular Cab",
+    "label": "2500 Regular Cab"
+  },
+  {
+    "value": "Envoy",
+    "label": "Envoy"
+  },
+  {
+    "value": "Envoy XL",
+    "label": "Envoy XL"
+  },
+  {
+    "value": "Envoy XUV",
+    "label": "Envoy XUV"
+  },
+  {
+    "value": "3500 Club Coupe",
+    "label": "3500 Club Coupe"
+  },
+  {
+    "value": "3500 Crew Cab",
+    "label": "3500 Crew Cab"
+  },
+  {
+    "value": "3500 Extended Cab",
+    "label": "3500 Extended Cab"
+  },
+  {
+    "value": "3500 Regular Cab",
+    "label": "3500 Regular Cab"
+  },
+  {
+    "value": "Hummer EV",
+    "label": "Hummer EV"
+  },
+  {
+    "value": "Jimmy",
+    "label": "Jimmy"
+  },
+  {
+    "value": "Rally Wagon 1500",
+    "label": "Rally Wagon 1500"
+  },
+  {
+    "value": "Rally Wagon 2500",
+    "label": "Rally Wagon 2500"
+  },
+  {
+    "value": "Rally Wagon 3500",
+    "label": "Rally Wagon 3500"
+  },
+  {
+    "value": "Rally Wagon G2500",
+    "label": "Rally Wagon G2500"
+  },
+  {
+    "value": "Rally Wagon G3500",
+    "label": "Rally Wagon G3500"
+  },
+  {
+    "value": "Safari Cargo",
+    "label": "Safari Cargo"
+  },
+  {
+    "value": "Safari Passenger",
+    "label": "Safari Passenger"
+  },
+  {
+    "value": "Savana 1500 Cargo",
+    "label": "Savana 1500 Cargo"
+  },
+  {
+    "value": "Savana 1500 Passenger",
+    "label": "Savana 1500 Passenger"
+  },
+  {
+    "value": "Savana 2500 Cargo",
+    "label": "Savana 2500 Cargo"
+  },
+  {
+    "value": "Savana 2500 Passenger",
+    "label": "Savana 2500 Passenger"
+  },
+  {
+    "value": "Savana 3500 Cargo",
+    "label": "Savana 3500 Cargo"
+  },
+  {
+    "value": "Savana 3500 Passenger",
+    "label": "Savana 3500 Passenger"
+  },
+  {
+    "value": "Sierra (Classic) 1500 Crew Cab",
+    "label": "Sierra (Classic) 1500 Crew Cab"
+  },
+  {
+    "value": "Sierra (Classic) 1500 Extended Cab",
+    "label": "Sierra (Classic) 1500 Extended Cab"
+  },
+  {
+    "value": "Sierra (Classic) 1500 HD Crew Cab",
+    "label": "Sierra (Classic) 1500 HD Crew Cab"
+  },
+  {
+    "value": "Sierra (Classic) 1500 Regular Cab",
+    "label": "Sierra (Classic) 1500 Regular Cab"
+  },
+  {
+    "value": "Sierra (Classic) 2500 Crew Cab",
+    "label": "Sierra (Classic) 2500 Crew Cab"
+  },
+  {
+    "value": "Sierra (Classic) 2500 HD Crew Cab",
+    "label": "Sierra (Classic) 2500 HD Crew Cab"
+  },
+  {
+    "value": "Sierra (Classic) 2500 HD Extended Cab",
+    "label": "Sierra (Classic) 2500 HD Extended Cab"
+  },
+  {
+    "value": "Sierra (Classic) 2500 HD Regular Cab",
+    "label": "Sierra (Classic) 2500 HD Regular Cab"
+  },
+  {
+    "value": "Sierra (Classic) 3500 Crew Cab",
+    "label": "Sierra (Classic) 3500 Crew Cab"
+  },
+  {
+    "value": "Sierra (Classic) 3500 Extended Cab",
+    "label": "Sierra (Classic) 3500 Extended Cab"
+  },
+  {
+    "value": "Sierra (Classic) 3500 Regular Cab",
+    "label": "Sierra (Classic) 3500 Regular Cab"
+  },
+  {
+    "value": "Sierra 1500 Crew Cab",
+    "label": "Sierra 1500 Crew Cab"
+  },
+  {
+    "value": "Sierra 1500 Double Cab",
+    "label": "Sierra 1500 Double Cab"
+  },
+  {
+    "value": "Sierra 1500 Extended Cab",
+    "label": "Sierra 1500 Extended Cab"
+  },
+  {
+    "value": "Sierra 1500 HD Crew Cab",
+    "label": "Sierra 1500 HD Crew Cab"
+  },
+  {
+    "value": "Sierra 1500 Limited Double Cab",
+    "label": "Sierra 1500 Limited Double Cab"
+  },
+  {
+    "value": "Sierra 1500 Regular Cab",
+    "label": "Sierra 1500 Regular Cab"
+  },
+  {
+    "value": "Sierra 2500 Crew Cab",
+    "label": "Sierra 2500 Crew Cab"
+  },
+  {
+    "value": "Sierra 2500 Extended Cab",
+    "label": "Sierra 2500 Extended Cab"
+  },
+  {
+    "value": "Sierra 2500 HD Crew Cab",
+    "label": "Sierra 2500 HD Crew Cab"
+  },
+  {
+    "value": "Sierra 2500 HD Double Cab",
+    "label": "Sierra 2500 HD Double Cab"
+  },
+  {
+    "value": "Sierra 2500 HD Extended Cab",
+    "label": "Sierra 2500 HD Extended Cab"
+  },
+  {
+    "value": "Sierra 2500 HD Regular Cab",
+    "label": "Sierra 2500 HD Regular Cab"
+  },
+  {
+    "value": "Sierra 2500 Regular Cab",
+    "label": "Sierra 2500 Regular Cab"
+  },
+  {
+    "value": "Sierra 3500 Crew Cab",
+    "label": "Sierra 3500 Crew Cab"
+  },
+  {
+    "value": "Sierra 3500 Extended Cab",
+    "label": "Sierra 3500 Extended Cab"
+  },
+  {
+    "value": "Sierra 3500 HD Crew Cab",
+    "label": "Sierra 3500 HD Crew Cab"
+  },
+  {
+    "value": "Sierra 3500 HD Double Cab",
+    "label": "Sierra 3500 HD Double Cab"
+  },
+  {
+    "value": "Sierra 3500 HD Extended Cab",
+    "label": "Sierra 3500 HD Extended Cab"
+  },
+  {
+    "value": "Sierra 3500 HD Regular Cab",
+    "label": "Sierra 3500 HD Regular Cab"
+  },
+  {
+    "value": "Sierra 3500 Regular Cab",
+    "label": "Sierra 3500 Regular Cab"
+  },
+  {
+    "value": "Sonoma Club Cab",
+    "label": "Sonoma Club Cab"
+  },
+  {
+    "value": "Sonoma Club Coupe Cab",
+    "label": "Sonoma Club Coupe Cab"
+  },
+  {
+    "value": "Sonoma Crew Cab",
+    "label": "Sonoma Crew Cab"
+  },
+  {
+    "value": "Sonoma Extended Cab",
+    "label": "Sonoma Extended Cab"
+  },
+  {
+    "value": "Sonoma Regular Cab",
+    "label": "Sonoma Regular Cab"
+  },
+  {
+    "value": "Suburban 1500",
+    "label": "Suburban 1500"
+  },
+  {
+    "value": "Suburban 2500",
+    "label": "Suburban 2500"
+  },
+  {
+    "value": "Terrain",
+    "label": "Terrain"
+  },
+  {
+    "value": "Acadia",
+    "label": "Acadia"
+  },
+  {
+    "value": "Acadia Limited",
+    "label": "Acadia Limited"
+  },
+  {
+    "value": "Vandura 1500",
+    "label": "Vandura 1500"
+  },
+  {
+    "value": "Vandura 2500",
+    "label": "Vandura 2500"
+  },
+  {
+    "value": "Vandura 3500",
+    "label": "Vandura 3500"
+  },
+  {
+    "value": "Vandura G1500",
+    "label": "Vandura G1500"
+  },
+  {
+    "value": "Vandura G2500",
+    "label": "Vandura G2500"
+  },
+  {
+    "value": "Vandura G3500",
+    "label": "Vandura G3500"
+  },
+  {
+    "value": "Yukon",
+    "label": "Yukon"
+  },
+  {
+    "value": "Yukon Denali",
+    "label": "Yukon Denali"
+  },
+  {
+    "value": "Yukon XL",
+    "label": "Yukon XL"
+  },
+  {
+    "value": "Yukon XL 1500",
+    "label": "Yukon XL 1500"
+  },
+  {
+    "value": "Yukon XL 2500",
+    "label": "Yukon XL 2500"
+  },
+  {
+    "value": "1500 Regular Cab",
+    "label": "1500 Regular Cab"
+  },
+  {
+    "value": "2500 Club Coupe",
+    "label": "2500 Club Coupe"
+  },
+  {
+    "value": "2500 Crew Cab",
+    "label": "2500 Crew Cab"
+  },
+  {
+    "value": "2500 HD Club Coupe",
+    "label": "2500 HD Club Coupe"
+  },
+  {
+    "value": "2500 HD Extended Cab",
+    "label": "2500 HD Extended Cab"
+  },
+  {
+    "value": "Canyon Crew Cab",
+    "label": "Canyon Crew Cab"
+  },
+  {
+    "value": "Canyon Extended Cab",
+    "label": "Canyon Extended Cab"
+  },
+  {
+    "value": "Canyon Regular Cab",
+    "label": "Canyon Regular Cab"
+  },
+  {
+    "value": "2500 HD Regular Cab",
+    "label": "2500 HD Regular Cab"
+  }
+]
